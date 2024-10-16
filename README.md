@@ -31,8 +31,8 @@ The Codex Document Management System is a RESTful API built with Java and Spring
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/raffeekk/backend-codex-task.git
    cd your-repo
+   git clone https://github.com/raffeekk/backend-codex-task.git
    ```
 
 2. Configure your PostgreSQL database:
