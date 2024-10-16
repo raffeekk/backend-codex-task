@@ -1,6 +1,6 @@
 this is my small project for codex
 
-```markdown
+markdown
 # Codex Document Management System
 
 ## Overview
