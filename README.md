@@ -124,19 +124,9 @@ To run tests, use:
 ./gradlew test
 ```
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Elasticsearch](https://www.elastic.co/elasticsearch/)
 ```
-
-Feel free to adjust any sections or details to fit your project's needs!
