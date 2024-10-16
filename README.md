@@ -1,6 +1,5 @@
-this is my small project for codex
+#This is my small project for codex
 
-markdown
 # Codex Document Management System
 
 ## Overview
