@@ -1,4 +1,4 @@
-Here's a sample README file you can use for your GitHub project. You can modify it as needed to fit your project specifics:
+this is my small project for codex
 
 ```markdown
 # Codex Document Management System
