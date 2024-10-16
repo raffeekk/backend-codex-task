@@ -1,6 +1,4 @@
-#This is my small project for codex
-
-# Codex Document Management System
+# This is my small project for codex
 
 ## Overview
 
