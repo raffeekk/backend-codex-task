@@ -126,4 +126,3 @@ To run tests, use:
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Elasticsearch](https://www.elastic.co/elasticsearch/)
-```
